@@ -1,5 +1,11 @@
-# 💫 About Me:
-Estudante de Engenharia de Computação<br>Em busca de estágio<br>Disposto a aprender
+# 💫 About Me
+🎓 **Estudante de Engenharia de Computação**  
+💻 **Em busca de estágio** na área de programação e desenvolvimento de sistemas  
+📚 **Disposto a aprender e crescer profissionalmente**  
+🔧 Conhecimentos em **C** e **Python**  
+🔄 Focado no **aprendizado contínuo**  
+🎯 Busco aplicar meus conhecimentos para resolver problemas reais e contribuir com soluções criativas no ambiente de trabalho.
+
 
 
 ## 🌐 Socials:
